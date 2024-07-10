@@ -17,12 +17,7 @@ Summaries: Brief summaries and key takeaways from each book.
 Reviews: Personal reviews and recommendations.
 Resources: Additional articles, talks, and tools related to system design and clean code.
 Discussions: A space to discuss insights, ask questions, and share experiences.
-🚀 Getting Started
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/system-design-clean-code-books.git
+🚀 
 Explore the books:
 Dive into the summaries and reviews to find the books that interest you.
 
